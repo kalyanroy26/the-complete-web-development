@@ -1,0 +1,12 @@
+body{
+    font-family: "Libre Baskerville", serif;
+}
+
+.middle{
+    width: 50%;
+    margin: 0 50% 0 50%;
+}
+
+img{
+    width: 100%;
+}
