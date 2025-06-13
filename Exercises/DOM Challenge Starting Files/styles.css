@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-style: italic;
+}
+
+
+.hide{
+  visibility: hidden;
+}
+
+.huge{
+  font-size: 10rem;
+  color: #1b64ad;
+}
